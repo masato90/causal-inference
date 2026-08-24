@@ -1,4 +1,4 @@
-# market-overlap-causal-inference
+# 商圏の重なりを考慮した合成コントロール法の実装
 合成コントロール法において、商圏の重なりを考慮して不適切な対照群を除外する。
 
 ## Overview
